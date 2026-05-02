@@ -173,11 +173,13 @@ A Java-based hospital management system for practicing OOP, CRUD operations, and
 
 <div align="center">
 
-![Muny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrusmunyPum&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BrusmunyPum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Muny's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrusmunyPum&layout=compact&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrusmunyPum&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BrusmunyPum&theme=tokyonight&hide_border=true)
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=BrusmunyPum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
