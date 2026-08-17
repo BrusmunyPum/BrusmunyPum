@@ -84,65 +84,6 @@ UI/UX          → Dashboard Design, Responsive Layout, Usability
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 Team Task Management System
-
-A full-stack project focused on team workflow, task management, clean UI, role-based permissions, and real-world project structure.
-
-**Main Focus:** TypeScript, Next.js, Backend API, PostgreSQL, Docker, UI/UX  
-**Repository:** [Team_Task_Management](https://github.com/BrusmunyPum/Team_Task_Management)
-
----
-
-### 🔹 Team Task Worker UI
-
-A frontend UI project for task management with dashboard layout, reusable interface sections, and clean user experience design.
-
-**Main Focus:** HTML, CSS, JavaScript, Dashboard UI, Responsive Layout  
-**Repository:** [Team_Task_Worker_project](https://github.com/BrusmunyPum/Team_Task_Worker_project)
-
----
-
-### 🔹 Personal Portfolio Website
-
-A personal portfolio website built with **React.js** to showcase my skills, projects, learning path, and developer profile.
-
-**Status:** In Development  
-**Deployment:** Coming Soon  
-**Future Plan:** Upgrade to **Next.js** for better routing, SEO, performance, and production structure.
-
-**Main Focus:** React.js, JavaScript, CSS, Responsive Design, UI/UX, Portfolio Design
-
----
-
-### 🔹 Mini ERP System
-
-A business management system project for practicing ERP workflow, user management, dashboard design, and system modules.
-
-**Main Focus:** Python, Business Logic, Dashboard, CRUD, Database Design, Management System  
-**Repository:** [Mini_ERP](https://github.com/BrusmunyPum/Mini_ERP)
-
----
-
-### 🔹 Staff Attendance Management
-
-A staff attendance management system for practicing real-world CRUD operations, attendance tracking, and management system design.
-
-**Main Focus:** JavaScript, CRUD, Management System, UI/UX  
-**Repository:** [Staff_attendence_Management](https://github.com/BrusmunyPum/Staff_attendence_Management)
-
----
-
-### 🔹 Hospital Management System
-
-A Java-based hospital management system for practicing OOP, CRUD operations, and system structure.
-
-**Main Focus:** Java, OOP, CRUD, Management System  
-**Repository:** [Hospital_management_system_java](https://github.com/BrusmunyPum/Hospital_management_system_java)
-
----
-
 ## 📚 Currently Learning
 
 - Angular
@@ -185,6 +126,7 @@ A Java-based hospital management system for practicing OOP, CRUD operations, and
 - Telegram: @brusmunypum
 - Facebook: Brusmuny Pum
 - Email: brusmunypum@gmail.com
+- My Portfolio: [Brusmuny Pum](https://brusmunypum.vercel.app)
 
 ---
 
